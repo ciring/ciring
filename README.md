@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Genshin Impact
+Genshin Impact
 
 <a href="https://github.com/ciring"><img src="https://genshin-card.getloli.com/27/73318593.png"></a>
 
