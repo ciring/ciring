@@ -3,7 +3,7 @@
 ## Genshin Impact
 
 <a href="https://github.com/ciring"><img src="https://genshin-card.getloli.com/rand/73318593.png" alt="genshin-card" />
-# 不知道为啥在电脑端的chrome里才能显示完全
+不知道为啥在电脑端的chrome里才能显示完全
 
 
 
