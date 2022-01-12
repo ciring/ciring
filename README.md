@@ -4,6 +4,11 @@
 
 <a href="https://github.com/ciring"><img src="https://genshin-card.getloli.com/27/73318593.png"></a>
 
+## Github Stats
+
+<a href="https://github.com/ciring"><img src="https://github-readme-stats.vercel.app/api?username=ciring&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a><a href="https://github.com/ciring"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciring&layout=compact&hide_title=true&hide_border=true&show_icons=true"></a>
+
+
 <!--
 **ciring/ciring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
