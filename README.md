@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+##Genshin Impact
+
+<a href="https://github.com/ciring"><img src="https://genshin-card.getloli.com/27/73318593.png"></a>
+
 <!--
 **ciring/ciring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
