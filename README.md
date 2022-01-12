@@ -3,6 +3,8 @@
 ## Genshin Impact
 
 <a href="https://github.com/ciring"><img src="https://genshin-card.getloli.com/rand/73318593.png" alt="genshin-card" />
+![](https://genshin-card.getloli.com/27/73318593.png)
+
 
 
 ## Github Stats
