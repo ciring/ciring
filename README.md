@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-## Genshin Impact
+## I like to play Genshin Impact
 
 <img src="https://genshin-card.getloli.com/rand/73318593.png"  /></a>
 
-不知道为啥在电脑端的chrome里才能显示完全
+ps:在电脑端的chrome里才能显示完全
 
 
 
